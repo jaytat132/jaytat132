@@ -4,7 +4,16 @@
 
 <p align="left">My name is Jay and I'm currently an upcoming Senior studying Computer Science<br>at the University of California, Davis.</p>
 
-![](https://komarev.com/ghpvc/?username=jaytat132)
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jay-tat-697510163/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:jaytat132@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
