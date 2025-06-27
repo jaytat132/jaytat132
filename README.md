@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jay and I'm currently an upcoming Senior studying Computer Science<br>at the University of California, Davis.</p>
+<p align="left">My name is Jay and I'm a graduate from the University of California, with a Bachelor's of Science in Computer Science</p>
 
 ![](https://komarev.com/ghpvc/?username=jaytat132)
 
